@@ -1,4 +1,10 @@
-;SEMAFORO
+;Conectar 03 LEDs de diferentes colores (rojo, verde y amarillo) a uno de los puertos del
+;microcontrolador. Luego, implementar la secuencia de un semáforo: El LED verde enciende y
+;permanece encendido durante 60 segundos, el LED amarillo enciende y permanece encendido durante
+;05 segundos, el LED rojo enciende y permanece encendido durante 60 segundos, el LED verde
+;enciende y se repite la secuencia. Debe quedar claro que, en todo momento, debe haber solamente un
+;LED encendido (ya sea rojo, verde o amarillo).
+
 
         ;Inclusión del archivo con las definiciones (etiquetas del fabricante)
         .INCLUDE "m2560def.inc"
