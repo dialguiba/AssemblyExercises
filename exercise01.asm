@@ -1,4 +1,4 @@
-
+;SEMAFORO
 
         ;Inclusión del archivo con las definiciones (etiquetas del fabricante)
         .INCLUDE "m2560def.inc"
